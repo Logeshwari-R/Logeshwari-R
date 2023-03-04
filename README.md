@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Logeshwari</h1>
 <h3 align="center">A passionate Beginner Application developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img align="center" alt="Coding" width="400" src="[https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logeshwari&label=Profile%20views&color=0e75b6&style=flat" alt="logeshwari" /> </p>
 
